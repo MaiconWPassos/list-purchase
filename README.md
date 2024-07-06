@@ -11,6 +11,6 @@
 ## [en-us] Screens
 
 <div style="display:flex; gap: 20px">
-  <img src="https://raw.githubusercontent.com/MaiconWPassos/list-purchase/github/1.png?sanitize=true&raw=true" />
-  <img src="https://raw.githubusercontent.com/MaiconWPassos/list-purchase/github/2.png?sanitize=true&raw=true" />
+  <img src="https://github.com/MaiconWPassos/list-purchase/blob/main/github/1.png?sanitize=true&raw=true" />
+  <img src="https://github.com/MaiconWPassos/list-purchase/blob/main/github/2.png?sanitize=true&raw=true" />
 </div>
