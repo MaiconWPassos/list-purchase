@@ -6,4 +6,4 @@
 
 [en-us]This project is a simple shopping list, intended to facilitate the validation of the final value of the products you will purchase.
 
-<!--@include:./images.md-->
+<iframe src="docs/images.html" width="100%" height="600px"></iframe>
